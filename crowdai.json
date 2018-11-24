@@ -1,7 +1,7 @@
 {
     "challenge_id" : "crowdai-marLo-2018-multi",
     "grader_id": "crowdai-marLo-2018-multi",
-    "authors" : ["spMohanty"],
+    "authors" : ["prafull"],
     "description" : "marLo random agent",
     "gpu": false
 }
