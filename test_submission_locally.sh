@@ -2,10 +2,10 @@
 
 ########################################################################
 # This script tests the submission locally by mimicking (to some extent)
-# what happens on the evaluation serber
+# what happens on the evaluation server
 ########################################################################
 
-export IMAGE_NAME="marlo_random_agents"
+export IMAGE_NAME="marlo_random_agent"
 
 # Build Image from the repository
 ./build.sh
